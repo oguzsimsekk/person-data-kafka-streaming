@@ -48,6 +48,7 @@ Run the consumer with specifying the topic name.
 Normalization could be applied as the invalid/incorrect data has been produced.
 
 To see the effect of streaming and window calculations;
+    Set the 'startingOffsets' option as 'latest' for the readstream in consumer.py and run it. 
     While the consumer console is running, try to run producer again.
     The batch/window calculations will appear as producer runs. 
 ```
