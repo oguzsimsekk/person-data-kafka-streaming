@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "first_name": "barThel",
+    "first_name": "Barthel",
     "last_name": "Kittel",
     "email": "bkittel0@printfriendly.com",
     "gender": "Male",
@@ -11,13 +11,13 @@
   },
   {
     "id": 2,
-    "first_name": "loY",
+    "first_name": "Loy",
     "last_name": "Drain",
     "email": "ldrain1@earthlink.net",
     "gender": "Male",
     "ip_address": "218.176.26,2",
     "date": "Matrix 18, 2017, 22:19:55",
-    "country": "Philippines"
+    "country": "philippines"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "gender": "Male",
     "ip_address": "50:76,199.147",
     "date": "Jun 28 2018 7:40AM",
-    "country": "Turkey"
+    "country": "turkey"
   },
   {
     "id": 4,
